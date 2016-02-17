@@ -2,7 +2,7 @@
 
 ## SideoMatic a customizable side menu maker
 
-SideoMatic it's a jQuery plugin to easily add a beautiful and customizable side menu to your projects:
+SideoMatic it's a jQuery plugin to easily add a beautiful and customizable side menu to your projects.
 
 - First: Add the following markup
 ```html
@@ -52,5 +52,7 @@ SideoMatic it's a jQuery plugin to easily add a beautiful and customizable side 
 ```javascript
    $(".side-menu").sideomatic();
 ```
+
+You can see the demo at: http://edups/edups.github.io
 
 Enjoy your menu !
