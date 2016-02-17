@@ -1,0 +1,60 @@
+@viewport{
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
+body{
+	margin:0;
+	padding:0;
+}
+.side-menu{
+	width: 250px;
+	min-height:100%;
+	position:fixed;	
+	display:none;
+}
+.title{
+	text-align:center;
+	margin:0;
+	padding:2%;
+}
+.side-menu li{
+	transition: all 0.5s;
+	text-align: center;
+	line-height: 1.8em;
+    
+}
+
+.side-menu ul{
+	list-style:none;
+	padding: 0;
+	margin: 0;
+    
+}
+.side-menu a{
+	text-decoration: none;
+	padding:10px;
+}
+
+.content{
+	width: 100%;
+	position: absolute;
+	padding: 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	 z-index:1;
+}
+.menu-bar,.menu-left{
+	position: fixed;
+	top:0px;
+	left:0px;
+}
+.menu{
+	padding:10px;
+	cursor:pointer;
+
+}
+.menu-left{
+	display:none;
+	
+}
