@@ -53,6 +53,6 @@ SideoMatic it's a jQuery plugin to easily add a beautiful and customizable side 
    $(".side-menu").sideomatic();
 ```
 
-You can see the demo at: http://edups/edups.github.io
+You can see the demo at: http://edups.github.io
 
 Enjoy your menu !
