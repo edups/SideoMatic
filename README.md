@@ -1,6 +1,6 @@
 # SideoMatic
 
-## SideoMatic a customizable side menu maker
+## SideoMatic a color customizable side menu maker
 
 SideoMatic it's a jQuery plugin to easily add a beautiful and customizable side menu to your projects.
 
